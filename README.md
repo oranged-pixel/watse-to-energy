@@ -9,8 +9,8 @@
 * **Science:** Dioxins are completely decomposed and destroyed when exposed to temperatures above 850°C for more than 2 seconds, eliminating toxic emissions at the source.
 
 ### 2. Fluid Dynamics Negative Pressure Enclosure 
-* **Mechanics:** Utilizing a powerful induction system to keep the internal pressure lower than atmospheric pressure ($\Delta P < 0$).
-* **Science:** Air only flows inward from the outside. Odors, waste oils, and hazardous gases are 100% contained and routed into the purification center, making it safe for urban integration.
+* **Mechanics:** Utilizing a powerful induction system to keep the internal pressure lower than atmospheric pressure 
+* *Science:** Air only flows inward from the outside. Odors, waste oils, and hazardous gases are 100% contained and routed into the purification center, making it safe for urban integration.
 
 ### 3. Three-Stage Purification System 
 * **Stage 1:** Secondary thermal cracking for residual toxins.
