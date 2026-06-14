@@ -23,7 +23,7 @@
 ---
 
 ## 🔬 Current Engineering Challenge 
-* **Energy Optimization:** How to maintain the factory's negative pressure environment with minimal electricity consumption? (Exploring natural chimney draft and Venturi effects).
+* **Energy Optimization:** How to maintain the factory's negative pressure environment with minimal electricity consumption? 
 
 
 
