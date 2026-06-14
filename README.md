@@ -1,5 +1,5 @@
 # waste-to-energy
-⁠A conceptual design for a clean, zero-emission waste-to-energy plant in urban areas using negative ---
+⁠A conceptual design for a clean, zero-emission waste-to-energy plant in urban areas using negative pressure
 
 
 ## 🛠️ Core Technology & Innovations 
